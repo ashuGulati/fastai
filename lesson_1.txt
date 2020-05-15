@@ -1,0 +1,14 @@
+import (fastai) lib
+	|
+first look at data before solving-to see how the data is 									structured and stored
+	|
+training-nn(data, model, metrics)
+	   -.model - to train
+	   - fit_one_cycle(no_of_epochs)
+	   - save the model
+	|
+result
+	|
+interpretation
+	|
+fine-tuning by plotting learning rate
