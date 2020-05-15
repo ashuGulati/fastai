@@ -1,2 +1,2 @@
 # fastai
-lessons
+lesson 1 : classification btw orange and apple
