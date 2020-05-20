@@ -1,0 +1,20 @@
+one can upload images directly from google
+split it into valid directly by giving percentage
+can view your total train_ds and valid_ds
+can plot the top_losses
+remove the top losses by using the delete widget
+??FileDeleter
+open_image
+train_loss shouldn't be higher than valid_loss
+so, either train more or try higher learning rate
+a correctly trained model will always have training loss lower than validation loss
+metrics are genreally applied to validation dataset
+unbalanced data works fine, try it
+SGD- stochaistic gradient descent
+PyTorch - tensor is an array;- rank/axes is the dimension
+
+		   
+	
+
+
+		
